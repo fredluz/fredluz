@@ -1,8 +1,11 @@
-Hello there! I'm Fred, a 23-year-old student at ISCTE-Sintra, deeply fascinated by Artificial Intelligence. My academic and personal pursuits are centered around understanding AI's potential and using it as a tool to learn coding. Here, you'll find my progress, projects, and reflections on how AI can reshape not just technology, but society as a whole.
+## Hey — I'm Fred.
+AI engineer building multi-agent systems and developer tools.
+I design agent orchestration infrastructure — spawning, coordinating, and improving AI agents that work in parallel across codebases. Most of my recent work involves MCP servers, eval-driven agent improvement, and production apps built end-to-end with AI-native workflows.
 
-### My Exploration Areas
-**Learning to Code with AI:** I'm learning to code through AI-driven platforms and tools. This includes my experiences with AI tutoring systems, project-based learning using AI frameworks, and reflections on the learning process.
+**Currently:**
+- Building [Mercury](https://github.com/fredluz/mercury), a platform for great usability of and observability over Hermes agents
+- [Exocortex](https://github.com/fredluz/exocortex) — an ops orchestration system that spawns, coordinates, and improves persistent AI agents working in parallel.
+- [Mingdao](https://mingdaoapp.com), an AI-powered Mandarin learning platform currently in pilot with the Confucius Institute in Lisbon.
+- 10k+ parallel compute hours in Claude Code. I think in agents.
 
-**AI's Societal Impact:** Examining the broader societal and economical implications of AI. My interests here span from ethical debates to envisioning how AI can contribute positively to societal change.
-
-I'm always open to connecting with like-minded individuals who share an interest in AI, its impact on society, and learning coding through innovative methods. Feel free to reach out for discussions, project collaborations, or just to exchange ideas.
+Based in Lisbon
